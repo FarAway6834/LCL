@@ -1,3 +1,5 @@
+assert 0, "ver 0.0.1 isn't support"
+
 from os import symlink as __sym_link__
 from os.path import dirname as __get_dir__
 from os.path import basename as __base_name__
